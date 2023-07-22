@@ -36,8 +36,8 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-26a195214/)
 
 ## Minhas citações favoritas
-> "A simplicidade é a sofisticação máxima." - Leonardo da Vinci
-> "A pintura é poesia silenciosa, e a poesia é pintura falante." - Simonides
+> "A simplicidade é a sofisticação máxima." - Leonardo da Vinci <br>
+> "A pintura é poesia silenciosa, e a poesia é pintura falante." - Simonides <br>
 > "A criatividade é contagiosa. Passe adiante." - Albert Einstein
 Minhas citações favoritas
 
