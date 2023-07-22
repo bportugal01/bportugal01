@@ -25,9 +25,10 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 ## Estatísticas do GitHub
 
 <div style="display: inline-block; float: left; margin-right: 20px;">
-  <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&theme=transparent" style="width: 400px;
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact" style="width: 300px;" />
+  <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&theme=transparent" style="width: 400px;">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact" style="width: 300px;">
 </div>
+
 
 ## Encontre-me online
 - 📧 [Email](mailto:bruno.portugal01@etec.sp.gov.br)
