@@ -1,7 +1,7 @@
 <!-- Seu Nome -->
 # Olá, git👋
-
 Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desafios e do aprendizado contínuo em codificação.
+<br>
 
 ## Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas
@@ -20,20 +20,24 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br/>
-
 ## Estatísticas do GitHub
-
 <div style="display: inline-block; float: left; margin-right: 20px;">
   <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&theme=transparent" style="width: 400px;">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact" style="width: 300px;">
 </div>
 
-
 ## Encontre-me online
-- 📧 [Email](mailto:bruno.portugal01@etec.sp.gov.br)
-- 🐦 [Twitter](https://twitter.com/seunome)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-26a195214/)
+<a href="mailto:bruno.portugal01@etec.sp.gov.br">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" alt="Gmail">
+</a>
+
+<a href="https://twitter.com/seunome">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" alt="Twitter">
+</a>
+
+<a href="https://www.linkedin.com/in/bruno-26a195214/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="LinkedIn">
+</a>
 
 ## Minhas citações favoritas
 > "A simplicidade é a sofisticação máxima." - Leonardo da Vinci <br>
