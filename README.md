@@ -5,8 +5,8 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 
 ## Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas
-- 🚀 Atualmente focado em desenvolvimento web e aplicativos móveis.
-- 💡 Focado em desenvolver soluções elegantes e user-friendly para problemas reais.
+- 🚀 Atualmente concentrado em aprimorar habilidades em desenvolvimento web e aplicativos móveis.
+- 💡 Buscando criar soluções elegantes e intuitivas para desafios reais.
 
 ## Linguagens e Ferramentas
 <div style="display: inline_block">
