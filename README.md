@@ -39,15 +39,15 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 
 ## Encontre-me online
 <a href="mailto:bruno.portugal01@etec.sp.gov.br">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" alt="Gmail">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" alt="Gmail" width="90px">
 </a>
 
 <a href="https://twitter.com/seunome">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" alt="Twitter">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" alt="Twitter" width="90px">
 </a>
 
 <a href="https://www.linkedin.com/in/bruno-26a195214/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="LinkedIn" width="90px">
 </a>
 
 ## Minhas citações favoritas
