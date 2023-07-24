@@ -21,10 +21,21 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 </div>
 
 ## Estatísticas do GitHub
-<div style="display: inline-block; float: left; margin-right: 20px;">
-  <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&theme=transparent" style="width: 400px;">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact" style="width: 300px;">
+<div align="center">  
+  <a href="https://github.com/bportugal01" target="_blank">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bportugal01&theme=transparent&hide_border_radius=5.2" alt="GitHub Streak">
+  </a>
 </div>
+<br>
+  <div style="display: inline-block; margin-right: 20px;" align="center">
+    <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&theme=transparent" style="width: 400px;">
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact" style="width: 300px;">
+  </div>
+
+
+
+
+
 
 ## Encontre-me online
 <a href="mailto:bruno.portugal01@etec.sp.gov.br">
