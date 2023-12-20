@@ -4,7 +4,7 @@ Sou Bruno Portugal, um apaixonado por tecnologia, sempre em busca de novos desaf
 <br>
 
 ## Sobre mim
-- 🎓 Tec.em Desenvolvimento de Sistemas
+- 🎓 Tec. em Desenvolvimento de Sistemas
 - 🚀 Atualmente concentrado em aprimorar habilidades em desenvolvimento web e aplicativos móveis.
 - 💡 Buscando criar soluções elegantes e intuitivas para desafios reais.
 
