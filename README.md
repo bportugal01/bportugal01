@@ -20,9 +20,8 @@
 
 <div align="left">
   <h4>Projetos de Destaque:</h4>
-  <ul>
-    <li>Desenvolvi um sistema de detecção de princípios de incêndio, baseado em IoT, que foi premiado como o Melhor Projeto de IoT.</li>
-  </ul>
+ Desenvolvi um sistema de detecção de princípios de incêndio, baseado em IoT, que foi premiado como o Melhor Projeto de IoT.
+
 </div>
 
 
