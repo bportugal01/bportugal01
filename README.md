@@ -5,8 +5,8 @@
 <div align="left">
   <h3>Olá, meu nome é <strong>Bruno Portugal!</strong></h3>
   <p>
-    Trabalhando na IBM<br/>
-    Atuando na área de <strong>Consultoria</strong>, ajudando empresas a otimizar processos e implementar soluções inovadoras.
+    Atualmente trabalho na IBM, atuando na área de <strong>Consultoria</strong>, ajudando empresas a otimizar processos e implementar soluções inovadoras.<br/>
+    Meu foco está na transformação digital, utilizando tecnologias modernas para impulsionar eficiência e competitividade.
   </p>
 </div>
 
@@ -20,33 +20,50 @@
 
 <div align="left">
   <h4>Projetos de Destaque:</h4>
- Desenvolvi um sistema de detecção de princípios de incêndio, baseado em IoT, que foi premiado como o Melhor Projeto de IoT.
-
+  <p>Desenvolvi um sistema de detecção de princípios de incêndio baseado em IoT, que foi premiado como o Melhor Projeto de IoT, na 15ª FETEPS
+Feira Tecnológica do Centro Paula Souza.</p>
+  <ul>
+    <li><strong>Tecnologias utilizadas:</strong> Sensores inteligentes, Node.js, Kotlin, Firebase</li>
+    <li><strong>Impacto:</strong> Redução de riscos e monitoramento em tempo real</li>
+  </ul>
 </div>
-
 
 <div align="left">
   <h4>Tecnologias que utilizo:</h4>
+  <h5>Frontend:</h5>
   
   ![HTML](https://img.shields.io/badge/-HTML-556b2f?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-556b2f?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-556b2f?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-556b2f?style=flat&logo=node.js)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-556b2f?style=flat&logo=oracle)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-556b2f?style=flat&logo=cplusplus)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-556b2f?style=flat&logo=kotlin)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-556b2f?style=flat&logo=mysql)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-556b2f?style=flat&logo=microsoftsqlserver)&nbsp;
-  ![COBOL](https://img.shields.io/badge/-COBOL-556b2f?style=flat&logo=cobol)&nbsp;
-  ![Natural](https://img.shields.io/badge/-Natural-556b2f?style=flat&logo=natural)&nbsp;
+ 
+  <h5>Backend:</h5>
+</div>
+
+![COBOL](https://img.shields.io/badge/-COBOL-556b2f?style=flat&logo=cobol)&nbsp;
+![Natural](https://img.shields.io/badge/-Natural-556b2f?style=flat&logo=natural)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-556b2f?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-556b2f?style=flat&logo=oracle)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-556b2f?style=flat&logo=kotlin)&nbsp;
+    
+  <h5>Banco de Dados:</h5>
+
+![MySQL](https://img.shields.io/badge/-MySQL-556b2f?style=flat&logo=mysql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-556b2f?style=flat&logo=microsoftsqlserver)&nbsp;
+  
 </div>
 
 <div align="center">
-  <div align="left">
-    <h4>Minhas estatísticas:</h4>
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=556b2f&cache_seconds=2300" alt="Ilustração do status do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact&langs_count=7&theme=dark&bg_color=556b2f&title_color=ffffff&text_color=ffffff" alt="Estatísticas de Linguagens" />
+  <h4>Minhas estatísticas:</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=bportugal01&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=556b2f&cache_seconds=2300" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact&langs_count=7&theme=dark&bg_color=556b2f&title_color=ffffff&text_color=ffffff" alt="Linguagens">
+</div>
+
+<div align="left">
+  <h4>Artigos e Projetos:</h4>
+  <ul>
+    <li><a href="https://github.com/bportugal01/iot-fire-detection">Sistema de Detecção de Incêndios</a></li>
+    <li><a href="https://dev.to/bportugal01">Artigos sobre tecnologia</a></li>
+  </ul>
 </div>
 
 <div align="left">
