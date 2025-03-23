@@ -58,13 +58,7 @@ Feira Tecnológica do Centro Paula Souza.</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bportugal01&layout=compact&langs_count=7&theme=dark&bg_color=556b2f&title_color=ffffff&text_color=ffffff" alt="Linguagens">
 </div>
 
-<div align="left">
-  <h4>Artigos e Projetos:</h4>
-  <ul>
-    <li><a href="https://github.com/bportugal01/iot-fire-detection">Sistema de Detecção de Incêndios</a></li>
-    <li><a href="https://dev.to/bportugal01">Artigos sobre tecnologia</a></li>
-  </ul>
-</div>
+
 
 <div align="left">
   <h4>Contatos:</h4>
